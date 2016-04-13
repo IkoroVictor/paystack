@@ -1,5 +1,7 @@
 ## paystack
 
+[![Join the chat at https://gitter.im/IkoroVictor/paystack](https://badges.gitter.im/IkoroVictor/paystack.svg)](https://gitter.im/IkoroVictor/paystack?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A Nodejs API wrapper for [Paystack](https://paystack.co/).
 
 ### Installation
